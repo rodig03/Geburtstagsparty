@@ -1,3 +1,5 @@
 Haus
 Auto
 Boot
+Geld
+Gold
